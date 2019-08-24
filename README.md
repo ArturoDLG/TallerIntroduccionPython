@@ -11,8 +11,9 @@ En este repositorio se encuentra alojado:
 
 ## Comó ver los Jupyter Notebook?
 ___
-
-Si quieres visualizar las Jupyter Notebook, descarga o clona el material del repositorio, puedes usar el entorno Anaconda para Python disponible en [su sitio web](https://www.anaconda.com/distribution/) , o instala Jupyter siguiendo las instrucciones de su pagina haciendo[click aqui.](https://jupyter.org/install) 
+Puedes visualizar las Jupyter Notebook desde el navegador, o puedes descargarlas a tu computadora y usar el entorno de Anaconda que ofrece una IDE (spyder) y Jupyter Notebook preinstalado, siguiendo este [tutorial](https://youtu.be/52h3r_lROGY) (para Windows).
+ 
+O instala Jupyter en su inyterprete, siguiendo las instrucciones de su pagina haciendo [click aqui.](https://jupyter.org/install) 
 
 ## Quieres aprender más?
 ___
