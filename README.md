@@ -2,23 +2,25 @@
 ___
 Bienvenido al repositorio del taller de introducción a Python impartido en el calendario 2019 B en el Laboratorio de Desarrollo de Software del centro universitario de los Valles (CUValles), donde se estarán impartiendo sesiones para conocer parte de las "baterias incluidas" que ofrece el lenguaje en su versión mas reciente a la fecha de creación de este curso (CPython 3.7), así como tener buenas practicas de programación para tener un código más legible al estilo de Python.
 
-##Temario:
+## Temario:
 ___
-Sesión 1: Introducción a Python
-Sesión 2: Tipos Numéricos
+* Sesión 1: Introducción a Python
+* Sesión 2: Tipos Numéricos
+* Sesión 3: Matemáticas + Python
+* Sesión 4: Strings
 
 ## Que encontraras aqui?
 ___
 En este repositorio se encuentra alojado:    
 * Jupyter Notebooks   
-* Códigos utilizados  
+* PDF de la sesiones  
 * Soluciones a los ejercicios de la sesión (colocados en las carpetas HackerRank de cada sesión)
 
 ## Comó ver los Jupyter Notebook?
 ___
 Puedes visualizar las Jupyter Notebook desde el navegador, o puedes descargarlas a tu computadora y usar el entorno de Anaconda que ofrece una IDE (spyder) y Jupyter Notebook preinstalado, siguiendo este [tutorial](https://youtu.be/52h3r_lROGY) (para Windows).
  
-O instala Jupyter en su inyterprete, siguiendo las instrucciones de su pagina haciendo [click aqui.](https://jupyter.org/install) 
+O instala Jupyter en su interprete, siguiendo las instrucciones de su pagina haciendo [click aqui.](https://jupyter.org/install) 
 
 ## Quieres aprender más?
 ___
