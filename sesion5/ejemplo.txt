@@ -1,0 +1,6 @@
+este es un ejemplo de lectura 
+de archivo de texto plano;
+este no debe de mostrar 
+/
+la linea despues de la 
+diagonal
