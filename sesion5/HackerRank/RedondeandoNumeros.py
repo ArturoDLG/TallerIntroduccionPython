@@ -1,0 +1,7 @@
+from math import floor
+if __name__ == '__main__':
+    n = int(input())
+    for _ in range(n):
+        numero = float(input())
+        numero = floor(numero)
+        print(numero)

@@ -8,6 +8,11 @@ ___
 * Sesión 2: Tipos Numéricos
 * Sesión 3: Matemáticas + Python
 * Sesión 4: Strings
+* Sesión 5: Flujo de bucles y condiciones
+* Sesión 6: Definiendo funciones
+* Sesión 7: Colecciones
+* Sesión 8: Diccionarios
+* Sesión 9: Expresiones por comprensión
 
 ## Que encontraras aqui?
 ___
