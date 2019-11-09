@@ -4,15 +4,17 @@ Bienvenido al repositorio del taller de introducción a Python impartido en el c
 
 ## Temario:
 ___
-* Sesión 1: Introducción a Python
-* Sesión 2: Tipos Numéricos
-* Sesión 3: Matemáticas + Python
-* Sesión 4: Strings
-* Sesión 5: Flujo de bucles y condiciones
-* Sesión 6: Definiendo funciones
-* Sesión 7: Colecciones
-* Sesión 8: Diccionarios
-* Sesión 9: Expresiones por comprensión
+* Sesión 01: Introducción a Python
+* Sesión 02: Tipos Numéricos
+* Sesión 03: Matemáticas + Python
+* Sesión 04: Strings
+* Sesión 05: Flujo de bucles y condiciones
+* Sesión 06: Definiendo funciones
+* Sesión 07: Colecciones
+* Sesión 08: Diccionarios
+* Sesión 09: Expresiones por comprensión
+* Sesión 10: Busquedas y Ordenamiento
+* Sesión 11: Clases con Python
 
 ## Que encontraras aqui?
 ___
